@@ -5,13 +5,23 @@ Aqui você encontra todos os scripts essenciais para aproveitar ao máximo os re
 
 🔧 Todos os scripts disponíveis aqui foram desenvolvidos por uma comunidade talentosa e dedicada — todo o crédito vai integralmente aos seus criadores. Nosso papel é apenas organizar, facilitar o acesso e valorizar o trabalho de quem contribui para transformar a educação com tecnologia.
 
-Seja muito bem-vindo(a)! 🚀
+# CMSP Tools
 
+Bem-vindo ao repositório oficial do **CMSP Tools**!
 
-Como Usar:
+Este projeto tem como objetivo fornecer ferramentas úteis para facilitar o acesso e gerenciamento de dados relacionados à CMSP.
 
-1.Baixe o Arquivo CMSP Tools Site.html
+🔗 **Acesse o site:**  
+[https://cmsptoolssite.netlify.app](https://cmsptoolssite.netlify.app)
 
-2.Execute No Seu Navegador
+## 📦 Funcionalidades
 
-3.Arraste e Solte Na Barra de Favorito
+- Consulta de dados da CMSP em tempo real.
+- Ferramentas de visualização e análise.
+- Interface simples e responsiva.
+
+## 🚀 Como usar
+
+1. Acesse o site diretamente pelo link acima.
+2. Explore as ferramentas disponíveis no menu.
+3. Para desenvolvedores: clone este repositório para contribuir com melhorias.
