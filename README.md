@@ -24,4 +24,3 @@ Este projeto tem como objetivo fornecer ferramentas úteis para facilitar o aces
 
 1. Acesse o site diretamente pelo link acima.
 2. Explore as ferramentas disponíveis no menu.
-3. Para desenvolvedores: clone este repositório para contribuir com melhorias.
