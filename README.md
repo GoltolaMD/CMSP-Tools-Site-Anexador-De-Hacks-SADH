@@ -13,6 +13,8 @@ Este projeto tem como objetivo fornecer ferramentas úteis para facilitar o aces
 
 🔗 **Acesse o site:**  
 [https://cmsptoolssite.netlify.app](https://cmsptoolssite.netlify.app)
+ou
+[https://cmhub.netlify.app](https://cmhub.netlify.app)
 
 ## 📦 Funcionalidades
 
